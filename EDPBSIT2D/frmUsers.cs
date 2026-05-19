@@ -29,7 +29,7 @@ namespace DELACRUZXYRUSCBSIT2D
         private void frmUsers_Load(object sender, EventArgs e)
         {
             string query = "SELECT tbluserinformation.userID, tbllogincredentials.LoginID, tbluserinformation.firstname, tbluserinformation.middlename, tbluserinformation.lastname, tbluserinformation.emailAddress, tbluserinformation.homeAddress, tbluserinformation.birthDate, tbllogincredentials.user_username as 'Username', tbllogincredentials.user_password as 'Password' FROM tbllogincredentials INNER JOIN tbluserinformation ON tbllogincredentials.userID = tbluserinformation.userID;";
-                        
+
             dgvUsers.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
             dgvUsers.DataSource = db.ExecuteReturnQuery(query);
             dgvUsers.Columns[0].Visible = false;
@@ -63,6 +63,60 @@ namespace DELACRUZXYRUSCBSIT2D
         private void dtpBirthDate_ValueChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void tbHomeAdd_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+            if (dgvUsers.SelectedRows.Count > 0)
+            {
+                DialogResult result = MessageBox.Show("Are you sure you want to update this account?", "Update Account", MessageBoxButtons.YesNo);
+                if (result == DialogResult.Yes)
+                {
+
+                    int idUserInfo = Convert.ToInt32(dgvUsers.SelectedRows[0].Cells[0].Value);
+                    int idLoginCredentials = Convert.ToInt32(dgvUsers.SelectedRows[0].Cells[1].Value);
+                    tbFname.Text = dgvUsers.SelectedRows[0].Cells[2].Value.ToString();
+
+                    //continue
+                }
+            }
+        }
+
+        private void btnDeactivate_Click(object sender, EventArgs e)
+        {
+            if (dgvUsers.SelectedRows.Count > 0)
+            {
+
+                DialogResult result = MessageBox.Show("Are you sure you want to deactivate this account?", "Account Deactivation", MessageBoxButtons.YesNo);
+                if (result == DialogResult.Yes)
+                {
+
+                    int id = Convert.ToInt32(dgvUsers.SelectedRows[0].Cells[1].Value);
+                    string query = "UPDATE tbllogincredentials SET is_active = 0 where LoginID = @id";
+
+                    int affectedRows = db.ExecuteNoReturnQuery(query,
+                        new MySqlParameter("@id", id));
+                    if (affectedRows > 0)
+                    {
+                        MessageBox.Show("Account is deactivated!");
+                    }
+                }
+            }
         }
     }
 }
