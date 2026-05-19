@@ -1,0 +1,8 @@
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\DELA CRUZ, XYRUS C. BSIT 2D.csproj.AssemblyReference.cache
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\DELA_CRUZ_XYRUS_C_BSIT_2D.Form1.resources
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\DELA_CRUZ_XYRUS_C_BSIT_2D.frmHome.resources
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\EDPBSIT2D.frmUsers.resources
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\DELA_CRUZ_XYRUS_C_BSIT_2D.Properties.Resources.resources
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\DELA CRUZ, XYRUS C. BSIT 2D.csproj.GenerateResource.cache
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\DELA CRUZ, XYRUS C. BSIT 2D.csproj.CoreCompileInputs.cache
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\DELACRUZXYRUSCBSIT2D.Properties.Resources.resources

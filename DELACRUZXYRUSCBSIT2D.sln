@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11520.95
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DELACRUZXYRUSCBSIT2D", "EDPBSIT2D\DELACRUZXYRUSCBSIT2D.csproj", "{624DCFF4-D47B-4BFC-92B4-928ACD7B179A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{624DCFF4-D47B-4BFC-92B4-928ACD7B179A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624DCFF4-D47B-4BFC-92B4-928ACD7B179A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624DCFF4-D47B-4BFC-92B4-928ACD7B179A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624DCFF4-D47B-4BFC-92B4-928ACD7B179A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC1F68E6-5A2F-4E8D-A238-79D07587B9AE}
+	EndGlobalSection
+EndGlobal

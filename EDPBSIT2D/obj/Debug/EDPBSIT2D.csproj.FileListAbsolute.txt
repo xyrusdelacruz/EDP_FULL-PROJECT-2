@@ -1,0 +1,50 @@
+C:\Users\1\source\repos\EDPBSIT2D\EDPBSIT2D\bin\Debug\EDPBSIT2D.exe.config
+C:\Users\1\source\repos\EDPBSIT2D\EDPBSIT2D\bin\Debug\EDPBSIT2D.exe
+C:\Users\1\source\repos\EDPBSIT2D\EDPBSIT2D\bin\Debug\EDPBSIT2D.pdb
+C:\Users\1\source\repos\EDPBSIT2D\EDPBSIT2D\obj\Debug\EDPBSIT2D.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\EDPBSIT2D\EDPBSIT2D\obj\Debug\EDPBSIT2D.Form1.resources
+C:\Users\1\source\repos\EDPBSIT2D\EDPBSIT2D\obj\Debug\EDPBSIT2D.Properties.Resources.resources
+C:\Users\1\source\repos\EDPBSIT2D\EDPBSIT2D\obj\Debug\EDPBSIT2D.csproj.GenerateResource.cache
+C:\Users\1\source\repos\EDPBSIT2D\EDPBSIT2D\obj\Debug\EDPBSIT2D.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\EDPBSIT2D\EDPBSIT2D\obj\Debug\EDPBSIT2D.exe
+C:\Users\1\source\repos\EDPBSIT2D\EDPBSIT2D\obj\Debug\EDPBSIT2D.pdb
+C:\Users\COLLEGE STUDENT.DESKTOP-U89EGH5\Desktop\New folder\EDPBSIT2D\bin\Debug\EDPBSIT2D.exe.config
+C:\Users\COLLEGE STUDENT.DESKTOP-U89EGH5\Desktop\New folder\EDPBSIT2D\bin\Debug\EDPBSIT2D.exe
+C:\Users\COLLEGE STUDENT.DESKTOP-U89EGH5\Desktop\New folder\EDPBSIT2D\bin\Debug\EDPBSIT2D.pdb
+C:\Users\COLLEGE STUDENT.DESKTOP-U89EGH5\Desktop\New folder\EDPBSIT2D\obj\Debug\EDPBSIT2D.csproj.AssemblyReference.cache
+C:\Users\COLLEGE STUDENT.DESKTOP-U89EGH5\Desktop\New folder\EDPBSIT2D\obj\Debug\EDPBSIT2D.Form1.resources
+C:\Users\COLLEGE STUDENT.DESKTOP-U89EGH5\Desktop\New folder\EDPBSIT2D\obj\Debug\EDPBSIT2D.Properties.Resources.resources
+C:\Users\COLLEGE STUDENT.DESKTOP-U89EGH5\Desktop\New folder\EDPBSIT2D\obj\Debug\EDPBSIT2D.csproj.GenerateResource.cache
+C:\Users\COLLEGE STUDENT.DESKTOP-U89EGH5\Desktop\New folder\EDPBSIT2D\obj\Debug\EDPBSIT2D.csproj.CoreCompileInputs.cache
+C:\Users\COLLEGE STUDENT.DESKTOP-U89EGH5\Desktop\New folder\EDPBSIT2D\obj\Debug\EDPBSIT2D.exe
+C:\Users\COLLEGE STUDENT.DESKTOP-U89EGH5\Desktop\New folder\EDPBSIT2D\obj\Debug\EDPBSIT2D.pdb
+C:\Users\austr\source\repos\EDP_FullProjectBSIT2D\EDPBSIT2D\obj\Debug\EDPBSIT2D.csproj.AssemblyReference.cache
+C:\Users\austr\source\repos\EDP_FullProjectBSIT2D\EDPBSIT2D\obj\Debug\EDPBSIT2D.Form1.resources
+C:\Users\austr\source\repos\EDP_FullProjectBSIT2D\EDPBSIT2D\obj\Debug\EDPBSIT2D.frmHome.resources
+C:\Users\austr\source\repos\EDP_FullProjectBSIT2D\EDPBSIT2D\obj\Debug\EDPBSIT2D.frmUsers.resources
+C:\Users\austr\source\repos\EDP_FullProjectBSIT2D\EDPBSIT2D\obj\Debug\EDPBSIT2D.Properties.Resources.resources
+C:\Users\austr\source\repos\EDP_FullProjectBSIT2D\EDPBSIT2D\obj\Debug\EDPBSIT2D.csproj.GenerateResource.cache
+C:\Users\austr\source\repos\EDP_FullProjectBSIT2D\EDPBSIT2D\obj\Debug\EDPBSIT2D.csproj.CoreCompileInputs.cache
+C:\Users\austr\source\repos\EDP_FullProjectBSIT2D\EDPBSIT2D\obj\Debug\EDPBSIT2D.exe
+C:\Users\austr\source\repos\EDP_FullProjectBSIT2D\EDPBSIT2D\obj\Debug\EDPBSIT2D.pdb
+C:\Users\austr\source\repos\EDP_FullProjectBSIT2D\EDPBSIT2D\bin\Debug\EDPBSIT2D.exe.config
+C:\Users\austr\source\repos\EDP_FullProjectBSIT2D\EDPBSIT2D\bin\Debug\EDPBSIT2D.exe
+C:\Users\austr\source\repos\EDP_FullProjectBSIT2D\EDPBSIT2D\bin\Debug\EDPBSIT2D.pdb
+C:\Users\austr\source\repos\EDP_FullProjectBSIT2D\EDPBSIT2D\bin\Debug\System.Memory.dll
+C:\Users\austr\source\repos\EDP_FullProjectBSIT2D\EDPBSIT2D\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\austr\source\repos\EDP_FullProjectBSIT2D\EDPBSIT2D\obj\Debug\EDPBSIT2D.csproj.Up2Date
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\bin\Debug\EDPBSIT2D.exe.config
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\bin\Debug\EDPBSIT2D.exe
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\bin\Debug\EDPBSIT2D.pdb
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\bin\Debug\System.Memory.dll
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\bin\Debug\System.Numerics.Vectors.dll
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\EDPBSIT2D.csproj.AssemblyReference.cache
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\EDPBSIT2D.Form1.resources
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\EDPBSIT2D.frmHome.resources
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\EDPBSIT2D.frmUsers.resources
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\EDPBSIT2D.Properties.Resources.resources
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\EDPBSIT2D.csproj.GenerateResource.cache
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\EDPBSIT2D.csproj.CoreCompileInputs.cache
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\EDPBSIT2D.csproj.Up2Date
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\EDPBSIT2D.exe
+C:\Source 1\EDP_FullProjectBSIT2D-main\EDPBSIT2D\obj\Debug\EDPBSIT2D.pdb
